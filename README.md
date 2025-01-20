@@ -49,6 +49,9 @@ DiffuEraser is a diffusion model for video inpainting, which outperforms state-o
 ## Results
 More results will be displayed on the project page.   
 
+https://github.com/user-attachments/assets/b59d0b88-4186-4531-8698-adf6e62058f8
+
+
 
 
 ## Method Overview
