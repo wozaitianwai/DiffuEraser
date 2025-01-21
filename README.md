@@ -85,7 +85,7 @@ Additionally, to improve temporal consistency during long-sequence inference, we
 
 #### Prepare pretrained models
 Weights will be placed under the `./weights` directory.  
-1. Download our pretrained models from [here](https://huggingface.co/lixiaowen/diffuEraser) to the `weights` folder.  
+1. Download our pretrained models from [Hugging Face](https://huggingface.co/lixiaowen/diffuEraser) or [ModelScope](https://www.modelscope.cn/xingzi/diffuEraser.git) to the `weights` folder.  
 2. Download pretrained weight of based models and other components:  
     - [stable-diffusion-v1-5](https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5)  
     - [PCM_Weights](https://huggingface.co/wangfuyun/PCM_Weights)  
