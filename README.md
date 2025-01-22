@@ -88,7 +88,7 @@ Additionally, to improve temporal consistency during long-sequence inference, we
 Weights will be placed under the `./weights` directory.  
 1. Download our pretrained models from [Hugging Face](https://huggingface.co/lixiaowen/diffuEraser) or [ModelScope](https://www.modelscope.cn/xingzi/diffuEraser.git) to the `weights` folder.  
 2. Download pretrained weight of based models and other components:  
-    - [stable-diffusion-v1-5](https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5)  
+    - [stable-diffusion-v1-5](https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5) . The full folder size is over 30 GB. If you want to save storage space, you can download only the necessary files: feature_extractor, model_index.json, safety_checker, scheduler, text_encoder, and tokenizer，about 4GB.  
     - [PCM_Weights](https://huggingface.co/wangfuyun/PCM_Weights)  
     - [propainter](https://github.com/sczhou/ProPainter/releases/tag/v0.1.0)  
     - [sd-vae-ft-mse](https://huggingface.co/stabilityai/sd-vae-ft-mse) 
